@@ -28,9 +28,7 @@ Para realizar el montaje primero se debe tener el orden correspondiente de los p
 
 <img width="350" alt="1" src="https://user-images.githubusercontent.com/50923637/70634902-0143ff80-1c01-11ea-87fe-2421cfbd253c.png">
 
-Imagen tomada de:
-
-* https://saber.patagoniatec.com/2014/06/ds18b20-sensor-temperatura-ds18b20-sumergible-agua-liquido-arduino-argentina-ptec/
+* [Referencia imagen PINOUT DS18B20](https://saber.patagoniatec.com/2014/06/ds18b20-sensor-temperatura-ds18b20-sumergible-agua-liquido-arduino-argentina-ptec/)
 
 Antes de realizar la implementación tenga en cuenta las características técnicas del dispositivo que vaya a implementar. 
 
@@ -46,3 +44,13 @@ Antes de realizar la implementación tenga en cuenta las características técni
 A continuación, podrá ver el diagrama de conexión necesario para realizar la guía. 
 
 <img width="350" alt="2" src="https://user-images.githubusercontent.com/50923637/70640326-ca261c00-1c09-11ea-8155-2521c9af4608.png">
+
+### Implementación de la aplicación en Node-red.
+
+**Antes de implementar la aplicación de esta guía debe tener instalado Node-Red en su raspberry Pi.**
+
+* [Instalación Node-red en su Raspberry pi](https://nodered.org/docs/getting-started/raspberrypi)
+
+**También debe tener previamente creado su servicio de Watson IoT platform y haber registrado su dispositivo.**
+
+En el siguiente video podrá ver como se habilita en la raspberry el pin para que tome los datos del sensor de temperatura fijese en el minuto **2:35 hasta el 3:05** [Video configuracion Pin raspberry para DS18B20](https://www.youtube.com/watch?time_continue=20&v=aEnS0-Jy2vE)
