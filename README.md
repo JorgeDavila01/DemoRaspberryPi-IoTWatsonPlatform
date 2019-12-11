@@ -96,7 +96,7 @@ Ahora para ver el resultado del nodo de Quickstart vera que esta resaltado en un
 
 Si usted ingreso correctamente los datos en el nodo de Watson IoT platform usted vera una imagen como la siguiente dentro de su servicio, donde podrá verificar que este conectado el dispositivo y si accede a la opción de sucesos reciente vera que se está realizando el envío de las medidas de temperatura a su servicio.
 
-<img width="600" alt="11" src="https://user-images.githubusercontent.com/50923637/70661684-ce1a6400-1c32-11ea-8fc1-96536b63aeb3.png">
+<img width="600" alt="19" src="https://user-images.githubusercontent.com/50923637/70664475-754dca00-1c38-11ea-9ff2-87c748b6e7c5.png">
 
 <img width="600" alt="11" src="https://user-images.githubusercontent.com/50923637/70661716-e5595180-1c32-11ea-8e78-e3d3cfd76a82.png">
 
