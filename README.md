@@ -51,6 +51,10 @@ A continuación, podrá ver el diagrama de conexión necesario para realizar la 
 
 * [Instalación Node-red en su Raspberry pi](https://nodered.org/docs/getting-started/raspberrypi)
 
-**También debe tener previamente creado su servicio de Watson IoT platform y haber registrado su dispositivo.**
+**También debe tener previamente creado su servicio de Watson IoT platform y haber registrado su dispositivo en la plataforma.**
 
 En el siguiente video podrá ver como se habilita en la raspberry el pin para que tome los datos del sensor de temperatura fijese en el minuto **2:35 hasta el 3:05** [Video configuracion Pin raspberry para DS18B20](https://www.youtube.com/watch?time_continue=20&v=aEnS0-Jy2vE)
+
+Primero debe acceder a la dirección local que se indica como localhost, esta dirección aparece luego de que usted inicie Node-red o inicie dando clic en el icono que aparece en la sección de programación con la que cuentan las últimas versiones del raspbian.
+
+<img width="300" alt="3" src="https://user-images.githubusercontent.com/50923637/70658297-b4295300-1c2b-11ea-8cc6-a19b2ffc464c.png">
