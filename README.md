@@ -46,7 +46,7 @@ A continuación, podrá ver el diagrama de conexión necesario para realizar la 
 
 ### Implementación de la aplicación en Node-red.
 
-**Antes de implementar la aplicación de esta guía debe tener instalado Node-Red en su raspberry Pi.**
+**Antes de implementar la aplicación de esta guía debe tener instalado Node-Red en su Raspberry Pi.**
 
 * [Instalación Node-red en su Raspberry pi](https://nodered.org/docs/getting-started/raspberrypi)
 
